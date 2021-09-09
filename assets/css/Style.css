@@ -1,6 +1,7 @@
 .main{
     background-color: hsl(194, 72%, 89%);
     text-align: center;
+    padding-bottom: 150px;
     }
 
 body{
@@ -66,8 +67,6 @@ h3{
   width: 200px;
   border-radius: 100%;
 }
-.mountain{
-    padding-bottom: 250px;
 }
 .middle-container{
   text-align: center;
